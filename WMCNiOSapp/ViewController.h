@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WMCNPlayer.h"
+@import AVFoundation;
+@import MediaPlayer;
 
 @interface ViewController : UIViewController
-
 
 @end
 
